@@ -1,4 +1,4 @@
-<mxfile modified="2022-12-08T02:21:14.181Z" host="app.diagrams.net" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="HA6BwuG-YL51Cclmr3ud" version="20.6.0" type="github" pages="3">
+<mxfile modified="2022-12-08T02:24:24.503Z" host="app.diagrams.net" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="CkhPBnhnCeAc_hCFiGY1" version="20.6.0" type="github" pages="3">
   <diagram id="Ht1M8jgEwFfnCIfOTk4-" name="Archtecture Diagram">
     <mxGraphModel dx="4734" dy="2065" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -878,8 +878,8 @@
         <mxCell id="1_HdNWLICO_hNjdkUqE2-17" value="&lt;font style=&quot;&quot;&gt;&lt;font style=&quot;font-size: 40px;&quot;&gt;Media Upload&lt;/font&gt;&lt;br&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontSize=22;rounded=0;rotation=-30;fillColor=#ffff88;strokeColor=#36393d;" vertex="1" parent="TEyIeeMCU0l6fT6L0V6q-1">
           <mxGeometry x="-1173.54" y="1504.81" width="270" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="1_HdNWLICO_hNjdkUqE2-19" value="&lt;font style=&quot;&quot;&gt;&lt;span style=&quot;font-size: 40px;&quot;&gt;Video Streaming&amp;nbsp;&lt;/span&gt;&lt;br&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontSize=22;rounded=0;rotation=-40;fillColor=#ffff88;strokeColor=#36393d;" vertex="1" parent="TEyIeeMCU0l6fT6L0V6q-1">
-          <mxGeometry x="1011.06" y="809.3199999999999" width="330" height="60" as="geometry" />
+        <mxCell id="1_HdNWLICO_hNjdkUqE2-19" value="&lt;font style=&quot;&quot;&gt;&lt;span style=&quot;font-size: 40px;&quot;&gt;Media Streaming&amp;nbsp;&lt;/span&gt;&lt;br&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontSize=22;rounded=0;rotation=-40;fillColor=#ffff88;strokeColor=#36393d;" vertex="1" parent="TEyIeeMCU0l6fT6L0V6q-1">
+          <mxGeometry x="1006.06" y="809.3199999999999" width="340" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
